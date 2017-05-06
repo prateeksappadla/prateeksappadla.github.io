@@ -1,0 +1,27 @@
+# Site settings
+title: Prateek Sappadla
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+copyright_name: Your/Project/Corporate Name
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: prateeksappadla
+github_username:  prateeksappadla
+facebook_username:  prateek.sappadla
+email_username:  prateek2693@gmail.com
+linkedin_username: prateeksappadla
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+paginate_path: "/blog/page:num/"
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
