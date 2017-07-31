@@ -1,8 +1,8 @@
 # Site settings
 title: Prateek Sappadla
-header-img: img/home-bg.jpg
+header-img: img/bg1.jpg
 email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+copyright_name: Prateek Sappadla
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://yourdomain.com"
@@ -11,6 +11,7 @@ github_username:  prateeksappadla
 facebook_username:  prateek.sappadla
 email_username:  prateek2693@gmail.com
 linkedin_username: prateeksappadla
+instagram_username: prateek2693
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
